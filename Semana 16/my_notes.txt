@@ -1,0 +1,3 @@
+L1: Hoy aprendi a trabajar con archivos en Python.
+L2: Me siento mas comodo Y Feliz con la programacion.
+L3: Seguire practicando para mejorar mis habilidades en programacion.
